@@ -12,6 +12,8 @@ Tenho grande interesse em metodologias
 melhores práticas do mercado. Estou em busca de minha primeira
 oportunidade para aplicar esses conhecimentos em projetos reais,
 agregando valor aos objetivos da equipe e da empresa.
+Trabalho no audiovisual, onde consigo colocar ideias em prática, seja com
+ótimas fotos e designes para site e etc.
 
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://br.linkedin.com/)
 [![Blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://br.linkedin.com/)
