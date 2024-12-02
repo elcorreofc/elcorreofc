@@ -3,7 +3,7 @@ Jonathan Natan, um desenvolvedor em início de carreira, apaixonado por
 banco de dados e pelo desenvolvimento de aplicações web e mobile. Com
 foco em adquirir experiência prática e contribuir com soluções
 eficientes, busco aprimorar minhas habilidades em tecnologias como
-Node.js para desenvolvimento de APIs e em banco de dados MySQL. No
+Node.js para desenvolvimento de APIs e em banco de dados MySQL e MongoDB. No
 front-end, tenho experiência em HTML, CSS e JavaScript, além de utilizar
 frameworks como o Bootstrap para criar interfaces funcionais,
 responsivas e otimizadas.
